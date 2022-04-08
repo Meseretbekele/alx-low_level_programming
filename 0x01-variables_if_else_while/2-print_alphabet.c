@@ -3,6 +3,7 @@
  * main - entry point
  *
  * print alphabet in lowercase
+ * return:0 always success
  */
 int main(void)
 {
