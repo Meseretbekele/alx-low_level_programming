@@ -2,17 +2,16 @@
 /**
  * main - entry point
  *
- * ptint alphabet in lowercase
+ * print alphabet in lowercase
  */
 int main(void)
 {
-char alphabet;
+char c;
 
-for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
+for (c = 'a'; c <= 'z'; c++)
 {
-putchar(alphabet);
+putchar(c);
 }
-
-putchar("\n");
+putchar('\n');
 return (0);
 }
