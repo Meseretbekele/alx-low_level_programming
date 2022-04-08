@@ -2,7 +2,7 @@
 /**
  * main - print some letters of alphabet
  *
- *
+ * Return: 0 always success
  */
 int main(void)
 {
