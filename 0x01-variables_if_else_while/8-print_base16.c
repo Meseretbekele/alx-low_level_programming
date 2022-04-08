@@ -2,7 +2,7 @@
 /**
  * main - print base 16 numbers
  *
- * return:0 always success
+ * Return:0 always success
  */
 int main(void)
 {
