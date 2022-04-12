@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - entry point
+ * print_alphabet_x10 - func
  *
  * Return - 0 always success
  */
