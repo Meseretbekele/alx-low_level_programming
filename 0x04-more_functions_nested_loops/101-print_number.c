@@ -8,9 +8,7 @@ void print_number(int n)
 unsigned int tens, digit, positive = n;
 double t_beg = 1;
 if (n == 0)
-{
 _putchar('0');
-}
 else
 {
 if (n < 0)
@@ -27,6 +25,5 @@ digit = positive / tens;
 _putchar(digit + '0');
 positive = (positive - (tens * digit));
 tens /= 10;
-}
-}
+}																	}
 }
